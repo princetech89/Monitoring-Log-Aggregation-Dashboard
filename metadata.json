@@ -1,0 +1,5 @@
+{
+  "name": "OmniSight Enterprise Monitoring",
+  "description": "A comprehensive enterprise-grade observability platform featuring real-time log aggregation, service health monitoring, AI-powered log analysis via Gemini, and detailed system analytics.",
+  "requestFramePermissions": []
+}
